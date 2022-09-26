@@ -5,7 +5,8 @@ let list={
     	"B_21_1": "Nahian Al Mahi",
     	"B_23_9": "Zuhair Anjum Ashfaq",
     	"B_25_4": "Ahmed Zulkarnine",
-    	"B_29_4": "Shaharaj Khandaker"
+    	"B_29_4": "Shaharaj Khandaker",
+        "B_26_9": "Tajdid Ahmed Sadman"
 }
 
 let names={
