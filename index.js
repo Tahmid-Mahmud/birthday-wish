@@ -17,7 +17,8 @@ let names={
     								"Nahian Al Mahi": "Mahi",
     								"Ahmed Zulkarnine": "Zulkar",
     								"Ahmad Yusha": "Yusha",
-    								"Shaharaj Khandaker": "Shaharaj"
+    								"Shaharaj Khandaker": "Shaharaj",
+                                                                "Tajdid Ahmed Sadman": "Sadman"
 }
 
 var today = new Date();
