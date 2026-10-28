@@ -8,7 +8,8 @@ let list={
     	"B_25_4": "Ahmed Zulkarnine",
     	"B_29_4": "Shaharaj Khandaker",
         "B_26_9": "Tajdid Ahmed Sadman",
-	"B_21_3": "Abdullah Al Numan Radid"
+	"B_21_3": "Abdullah Al Numan Radid",
+	"B_29_10": "Tanvir Mahmud Chowdhury"
 }
 
 let names={
@@ -21,8 +22,9 @@ let names={
     								"Ahmed Zulkarnine": "Zulkar",
     								"Ahmad Yusha": "Yusha",
     								"Shaharaj Khandaker": "Shaharaj",
-                                                                "Tajdid Ahmed Sadman": "Sadman",
-	                                "Abdullah Al Numan Radid": "Radid"
+                                    "Tajdid Ahmed Sadman": "Sadman",
+	                                "Abdullah Al Numan Radid": "Radid",
+									"Tanvir Mahmud Chowdhury": "Bhaiya"
 }
 
 var today = new Date();
